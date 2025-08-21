@@ -1,5 +1,5 @@
 
-# ICMP Tunnel Manager (Hossein.IT)
+🤖# ICMP Tunnel Manager (Hossein.IT)🤖
 <img src="icmptunnel.png" alt="icmp tunnel">
 
 یک اسکریپت Bash برای ساخت تونل **ICMP (Ping Tunnel)** بین دو سرور Ubuntu:  
@@ -10,7 +10,7 @@
 ## فایل‌ها
 - `icmp-tunnel.sh` — اسکریپت تعاملی با منو رنگی، نصب خودکار، سرویس systemd، NAT و پاکسازی.
 
-## اجرای سریع🚀
+## اجرای سریع💎
 روی هر سرور (با `sudo` اجرا کنید):
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/hosseinit1988/ICMP-Tunnel-Ubuntu/main/icmp-tunnel.sh)
