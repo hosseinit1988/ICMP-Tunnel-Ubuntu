@@ -1,5 +1,5 @@
 
-🤖# ICMP Tunnel Manager (Hossein.IT)🤖
+# ICMP Tunnel Manager (Hossein.IT)🤖
 <img src="icmptunnel.png" alt="icmp tunnel">
 
 یک اسکریپت Bash برای ساخت تونل **ICMP (Ping Tunnel)** بین دو سرور Ubuntu:  
