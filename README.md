@@ -12,6 +12,7 @@
 ## اجرای سریع
 روی هر سرور (با `sudo` اجرا کنید):
 ```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/hosseinit1988/ICMP-Tunnel-Ubuntu/main/icmp-tunnel.sh)
 chmod +x icmp-tunnel.sh
 sudo ./icmp-tunnel.sh
 ```
